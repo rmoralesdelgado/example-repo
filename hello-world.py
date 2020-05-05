@@ -10,5 +10,5 @@ print(hi)
 #  blah blha
 
 
-def myfunc():
+def myfunc_one(): # mod func name
     pass
